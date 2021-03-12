@@ -1,0 +1,16 @@
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.exe
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.deps.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.runtimeconfig.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.runtimeconfig.dev.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\ref\GOLD_DIGGER_POO012021.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\bin\Debug\net5.0\GOLD_DIGGER_POO012021.pdb
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.csprojAssemblyReference.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.AssemblyInfoInputs.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.AssemblyInfo.cs
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\ref\GOLD_DIGGER_POO012021.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.pdb
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\obj\Debug\net5.0\GOLD_DIGGER_POO012021.genruntimeconfig.cache
