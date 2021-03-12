@@ -1,0 +1,16 @@
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.exe
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.deps.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.runtimeconfig.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.runtimeconfig.dev.json
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ref\ContadoresAcumuladores.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\bin\Debug\net5.0\ContadoresAcumuladores.pdb
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.csprojAssemblyReference.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.AssemblyInfoInputs.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.AssemblyInfo.cs
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ref\ContadoresAcumuladores.dll
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.pdb
+C:\Users\tsuki\OneDrive\Documents\UCA NATALY\CICLO 3\POO\Soluciones\GOLD_DIGGER_POO012021\ContadoresAcumuladores\obj\Debug\net5.0\ContadoresAcumuladores.genruntimeconfig.cache
