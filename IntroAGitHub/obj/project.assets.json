@@ -8,19 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tsuki\\.nuget\\packages\\": {}
+    "C:\\Users\\Yohalmo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsuki\\OneDrive\\Documents\\UCA NATALY\\CICLO 3\\POO\\Soluciones\\GOLD_DIGGER_POO012021\\IntroAGitHub\\IntroAGitHub.csproj",
+      "projectUniqueName": "E:\\POO LABOS\\Meta1\\GOLD_DIGGER_POO012021\\IntroAGitHub\\IntroAGitHub.csproj",
       "projectName": "IntroAGitHub",
-      "projectPath": "C:\\Users\\tsuki\\OneDrive\\Documents\\UCA NATALY\\CICLO 3\\POO\\Soluciones\\GOLD_DIGGER_POO012021\\IntroAGitHub\\IntroAGitHub.csproj",
-      "packagesPath": "C:\\Users\\tsuki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsuki\\OneDrive\\Documents\\UCA NATALY\\CICLO 3\\POO\\Soluciones\\GOLD_DIGGER_POO012021\\IntroAGitHub\\obj\\",
+      "projectPath": "E:\\POO LABOS\\Meta1\\GOLD_DIGGER_POO012021\\IntroAGitHub\\IntroAGitHub.csproj",
+      "packagesPath": "C:\\Users\\Yohalmo\\.nuget\\packages\\",
+      "outputPath": "E:\\POO LABOS\\Meta1\\GOLD_DIGGER_POO012021\\IntroAGitHub\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\tsuki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Yohalmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

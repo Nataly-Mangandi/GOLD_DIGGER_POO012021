@@ -1,0 +1,16 @@
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.exe
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.deps.json
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.runtimeconfig.json
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.runtimeconfig.dev.json
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.dll
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\ref\IntroAGitHub.dll
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\bin\Debug\net5.0\IntroAGitHub.pdb
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.csprojAssemblyReference.cache
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.AssemblyInfoInputs.cache
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.AssemblyInfo.cs
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.csproj.CoreCompileInputs.cache
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.dll
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\ref\IntroAGitHub.dll
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.pdb
+E:\POO LABOS\Meta1\GOLD_DIGGER_POO012021\IntroAGitHub\obj\Debug\net5.0\IntroAGitHub.genruntimeconfig.cache
